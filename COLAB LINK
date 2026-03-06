@@ -1,0 +1,18 @@
+SQL QUERY GENERATOR 
+
+sql query Generator using IBM Granite 3.3 2B Instruct Model.
+
+## 🔗 Live Google Colab Notebook
+
+Click below to view and run the project:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1RwqjlslGS4NIkouif60xnwzPYFR_D-RQ?usp=sharing)
+
+
+
+## 🛠 Technologies Used
+
+- Python
+- IBM Granite 3.3 2B Instruct
+- Gradio
+- Google Colab
